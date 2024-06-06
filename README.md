@@ -1,2 +1,2 @@
 # Roblox Smart Storage
-Powerful, open-source data storage solution designed to surpass DataStore2 and ProfileService. With advanced features focused on preventing data loss and optimizing performance, SmartStore ensures your game data is secure and always accessible.
+A powerful, open-source data storage solution designed to surpass DataStore2 and ProfileService. With advanced features focused on preventing data loss and optimizing performance, SmartStore ensures your game data is secure and always accessible. SmartStore not only optimizes performance but also protects player data from unwanted or suspicious modifications, providing a robust and secure framework for all your data storage needs.
