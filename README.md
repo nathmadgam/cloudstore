@@ -1,5 +1,5 @@
 <h1 align="center">Cloudstore</h1>
-<p align="middle"><img src="https://github.com/nathmadgam/Cloudstore/assets/80922971/6e85ac3a-d469-4091-bb5a-36384b3809f4" alt="C-modified" width="100px"></p>
+<p align="middle"><img src="https://github.com/nathmadgam/Cloudstore/assets/80922971/6e85ac3a-d469-4091-bb5a-36384b3809f4" alt="C-modified" width="50px"></p>
 <p align="center"><code>Version 1.0.0 - June 6, 2025</code></p>
 <p align="center">Simple yet powerful, ensuring secure, optimized data storage.</p>
 
