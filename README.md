@@ -1,3 +1,3 @@
 <h1 align="center">Roblox Smart Storage</h1>
 
-<p align="center">Advanced, open-source data storage. Ensures secure, optimized game data with strong security</p>
+<p align="center">Simple yet powerful, ensuring secure, optimized data storage.</p>
